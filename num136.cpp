@@ -7,7 +7,7 @@
     #include <cassert> 
 	#include <cstring> 
 	#include <vector>
-
+///Подключение необходимых библиотек
     #include "array_add.h"///Подключение функций длля работы с массивами для номера 136. Заккоментированно для проверки стат.библиотеки     
     using namespace std; 
     namespace num136
